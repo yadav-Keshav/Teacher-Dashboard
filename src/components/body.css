@@ -1,0 +1,26 @@
+.dash-board{
+    padding:0 10vw;
+    display: flex;
+    margin-bottom: 100px;
+}
+.dash-board-left{
+    width: 10vw;
+}
+.dash-board-right{
+    width: 70vw;
+}
+.dash-board-left a{
+   display: block;
+   text-decoration: none;
+   color: #010101;
+   margin: 10px;
+}
+
+
+
+.main-card-top{
+    margin-top: 30px;
+    padding: 10px;
+    box-shadow: 1px 1px 2px 1px rgba(0, 0, 0, .2);
+    
+}

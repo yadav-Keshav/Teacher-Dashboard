@@ -1,0 +1,22 @@
+
+
+.navbar{
+    padding: 0px 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+    box-shadow: 1px 1px 2px 1px rgba(0, 0, 0, .2);
+}
+
+
+
+.navbar .left img{
+    height: 40px;
+}
+.navbar .right img{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+}
+
